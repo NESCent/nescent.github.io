@@ -7,4 +7,4 @@ The National Evolutionary Synthesis Center (NESCent) has had 10 years of funding
 
 Over the past 10 years, NESCent and NESCent scientists have created many websites, datasets, software packages and other online content. This site describes this content and plans for archival and handoff. 
 
-[What will happen to my content?]( {{"/digital_assets" | prepent: site.baseurl }} )
+[What will happen to my content?]( {{ "/digital_assets" }} )
