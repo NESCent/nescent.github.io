@@ -42,6 +42,8 @@ Code developed in collaboration between NESCent-sponsored scholars and NESCent I
 <h3 id="nescent_sponsored">NESCent-sponsored projects</h3>
 Code developed primarily by a NESCent-sponsored scholar or working group
 
+* [Phylontal](https://github.com/NESCent/Phylontal): Java tool for aligning multiple species-specific ontologies in a phylogenetically-aware manner. Developed by Peter Midford during a sabbatical fellowship.
+
 <h3 id="internal">Internal projects</h3>
 
 * [dataone-ws-tester](https://github.com/NESCent/dataone-ws-tester): Outdated system to test API of a DataONE member node
@@ -51,8 +53,6 @@ Code developed primarily by a NESCent-sponsored scholar or working group
 * [nescent.github.io](https://github.com/NESCent/nescent.github.io): The repo that underlies this page.
 
 * [openid_consumer_example](https://github.com/NESCent/openid_consumer_example): This is a simple rails app to show how to implement an OpenID Consumer in ruby.
-
-* [Phylontal](https://github.com/NESCent/Phylontal): Java tool for aligning multiple species-specific ontologies in a phylogenetically-aware manner
 
 * [VisualWG-TableMerge](https://github.com/NESCent/VisualWG-TableMerge): Java tool for merging spreadsheets from the Visual Systems WG
 
