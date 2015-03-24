@@ -30,15 +30,15 @@ Feeding, critical to survival, is an integrated function involving numerous cran
 
 **Software and Datasets**
 
-* C.E. Wall, V. Gapeyev, X. Liu, and H. Lapp (2011) Feeding Experiments End-user Database. [http://feedexp.org](), source code at [https://github.com/NESCent/feedingdb]()
+* C.E. Wall, V. Gapeyev, X. Liu, and H. Lapp (2011) Feeding Experiments End-user Database. http://feedexp.org, source code at https://github.com/NESCent/feedingdb
 
 **Publications**
 
-* Overview of FEED, the Feeding Experiments End-user Database C. E. Wall, C. J. Vinyard, S. H. Williams, V. Gapeyev, X. Liu, H. Lapp and R. Z. German 2011 Overview of FEED, the Feeding Experiments End-user Database, Integrative and Comparative Biology, volume 51, issue 2, pp. 215-223 [http://dx.doi.org/10.1093/icb/icr047]()
+* Overview of FEED, the Feeding Experiments End-user Database C. E. Wall, C. J. Vinyard, S. H. Williams, V. Gapeyev, X. Liu, H. Lapp and R. Z. German 2011 Overview of FEED, the Feeding Experiments End-user Database, Integrative and Comparative Biology, volume 51, issue 2, pp. 215-223. http://dx.doi.org/10.1093/icb/icr047
 
 **Proposals and Grants**
 
-* C. Wall et al. 2011. A novel database and ontology for evolutionary analyses of mammalian feeding physiology. Collaborative grant proposal to the ABI Innovation track. [http://www.nsf.gov/awardsearch/showAward?AWD_ID=1062333]()
+* C. Wall et al. 2011. A novel database and ontology for evolutionary analyses of mammalian feeding physiology. Collaborative grant proposal to the ABI Innovation track. http://www.nsf.gov/awardsearch/showAward?AWD_ID=1062333
 
 **Presentations**
 
@@ -65,5 +65,5 @@ A number of independent efforts have compiled global plant databases on function
 
 **Publications**
 
-* Roles of climate and functional traits in controlling toothed vs. untoothed leaf margins. D. L. Royer, D. J. Peppe, E. A. Wheeler and U. Niinemets. Roles of climate and functional traits in controlling toothed vs. untoothed leaf margins, American Journal of Botany, volume 99, issue 5, pp. 915-922 [http://dx.doi.org/10.3732/ajb.1100428]()
-* Understanding angiosperm diversification using small and large phylogenetic trees. Smith, S. A., J. Beaulieu, A. Stamatakis, and M. J. Donoghue. 2011. Understanding angiosperm diversification using large and small phylogenies. American J. of Botany.98(3): 404-414. [http://dx.doi.org/10.3732/ajb.1000481]()
+* Roles of climate and functional traits in controlling toothed vs. untoothed leaf margins. D. L. Royer, D. J. Peppe, E. A. Wheeler and U. Niinemets. Roles of climate and functional traits in controlling toothed vs. untoothed leaf margins, American Journal of Botany, volume 99, issue 5, pp. 915-922 http://dx.doi.org/10.3732/ajb.1100428
+* Understanding angiosperm diversification using small and large phylogenetic trees. Smith, S. A., J. Beaulieu, A. Stamatakis, and M. J. Donoghue. 2011. Understanding angiosperm diversification using large and small phylogenies. American J. of Botany.98(3): 404-414. http://dx.doi.org/10.3732/ajb.1000481
