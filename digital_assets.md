@@ -5,7 +5,7 @@ title: Digital asset plan
 
 If you had a wiki, mailing list, Duke Cluster account or other online resource through NESCent, this page describes what will happen to that resource when NESCent closes. There will also be a (largely private) [digital archive of all NESCent resources]( {{ "/asset_inventory" }} ) placed in the Duke Institutional Repository.
 
-**Deadline for transfer**: If you want copies of your NESCent wiki, mailing list or other content, please email [help@nescent.org](mailto:help@nescent.org) before ***March 30, 2015***. 
+**Deadline for transfer**: If you want copies of your NESCent wiki, mailing list or other content, please email [help@nescent.org](mailto:help@nescent.org) before ***April 13, 2015***. 
 
 * [Wikis and mailing lists](#wikis_mailing_lists)
 * [DSCR accounts](#dscr)
