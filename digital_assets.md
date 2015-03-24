@@ -38,7 +38,7 @@ Some groups (generally those using MediaWiki rather than Wikispaces) also had se
 If you had an account on the [Duke Shared Cluster Resource](https://wiki.duke.edu/display/SCSC/DSCR), you will need to move the files in your home directory to another location (noting that the DSCR was never to be a permanent home for data). All accounts on the DSCR need to be associated with an existing campus group, so unless you have another affiliation on Duke campus, your account will be deleted once NESCent closes.
 
 <h2 id="source_code">Source code</h2>
-All NESCent source code is open source and available from the [NESCent GitHub organization](https://github.com/nescent), which will remain online after NESCent closes.  We also provide a [summary of all NESCent repositories]( {{"/repositories }} ). 
+All NESCent source code is open source and available from the [NESCent GitHub organization](https://github.com/nescent), which will remain online after NESCent closes.  We also provide a [summary of all NESCent repositories]( {{ "/repositories" }} ). 
 
 <h2 id="nescent_website">NESCent website</h2>
 Duke will continue to host the NESCent website for at least 5 years after NESCent closes. In addition, we will place an archive of the site at the [Internet Archive](https://archive.org/).
