@@ -38,7 +38,7 @@ The help desk creates a tarball of the 'images' directory:
 The help desk uploads the two archive files, mywiki.xml.gz and
 mywiki.tgz, to duke.box.net, in coordination with the NESCent archiving team.
 
-### Obtain the two archive files to NESCent personnel
+### Obtain the two archive files from NESCent
 
 The NESCent archiving team provides the two archive files to the PI by
 enabling download from duke.box.net.
