@@ -2,12 +2,12 @@ Former NESCent PIs will desire access to their NESCent project wikis
 so that the wiki may be consulted or continued after NESCent closes.
 Following is how this comes about.
 
-## Request the dump
+### Request the dump
 
 The PI writes to the help desk (help@nescent.org) providing the URL of
 the wiki in question, e.g. https://www.nescent.org/wg_mywiki.
 
-## Create the wiki pages XML archive
+### Create the wiki pages XML archive
 
 The help desk creates the XML archive as follows:
 
@@ -24,21 +24,21 @@ The resulting file will be in /tmp/mywiki.xml.gz.
 In the unlikely event it's needed, detailed documentation on the 'dumpBackup.php' script and MediaWiki
 backups generally is [here](https://www.mediawiki.org/wiki/Manual:Backing_up_a_wiki).
 
-## Create the uploads directory archive
+### Create the uploads directory archive
 
 This second archive is important because it contains all uploaded
 files, including data and images.
 
 The help desk creates a tarball of the 'images' directory:
 
-    tar czf /tmp/mywiki.tgz --exclude="LocalSettings.php*" images
+    tar czf /tmp/mywiki.tgz images
 
-## Transmit the archive files to NESCent
+### Transmit the archive files to NESCent
 
 The help desk uploads the two archive files, mywiki.xml.gz and
 mywiki.tgz, to duke.box.net, in coordination with the NESCent archiving team.
 
-## Obtain the two archive files to NESCent personnel
+### Obtain the two archive files to NESCent personnel
 
 The NESCent archiving team provides the two archive files to the PI by
 enabling download from duke.box.net.
