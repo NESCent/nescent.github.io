@@ -24,5 +24,7 @@ Please help us to fully record the impact that NESCent has had on the evolutiona
 
 If you have NESCent-hosted content (wiki, mailing list, DSCR account, or other resource) associated with your project, please see our description of [what will happen to NESCent assets]( {{ "/digital_assets" }} ). If you want a copy of your content, contact us before **April 13, 2015**.
 
+After that, archived content is available from the [NESCent collection in Duke's Digital Repository](https://repository.lib.duke.edu/?f%5Badmin_set_facet_sim%5D%5B%5D=nescent). Previously public content is also available from the [NESCent collection on Zenodo](http://zenodo.org/collection/user-nescent/).
+
 
  
